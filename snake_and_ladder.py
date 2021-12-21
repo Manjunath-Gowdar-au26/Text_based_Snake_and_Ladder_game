@@ -10,7 +10,8 @@ class Game:
     message = """
         Welcome to Snake and Ladder Game.
         Developed by: Manjunath AG
-
+        Dedicated to: Nithyashree N
+        
         Select Snake and Ladder data-type:
         --> Enter 1 to select default values for snake and ladder.
         --> Enter 2 to give values manually.
