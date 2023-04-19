@@ -1,6 +1,6 @@
 # Introduction
 
-# I Dedicate this game to Nithyashree N, The shine of my life.
+# I Dedicate this game to Ameenagouda,
 
 ## Text based 'Snake and Ladder' game
 
@@ -8,6 +8,7 @@
   python language_
 - _I have implemented Class and Modular(file) concepts while developing this
   game_
+- [Click to Play the game](https://replit.com/@AGManjunath/snake-and-ladder-python-text-based-game)
 
 ---
 
@@ -22,12 +23,21 @@
 
 ## Using the Application to play this game
 
+Play the game on Browser
+
+1. _You can run it on replit.com website_ <br>
+2. _Click on Link below & Clink on "run" in the website_ <br>
+   [Click here - To play the game on Browser.](https://replit.com/@AGManjunath/snake-and-ladder-python-text-based-game)
+
+Play the game on Code Editor
+
 1. _Clone this repo to your local machine_
-2. _Go to 'main.py' file and run this file at console_
-3. _Enter the required data and the app run the program automaticall and shows
+2. _Go to 'main.py' file and run this file using python interpreter_
+3. _Install python and click on "run" from top menu of vs code(or any code
+   editor)_
+4. _or you can run "main.py" file at console using command "python3 main.py"_
+5. _Enter the required data and the app run the program automaticall and shows
    the winner._
-4. _You can also run it on Browser with below link_
-   [Click here, To play the game on Browser.](https://replit.com/@AGManjunath/ScientificDangerousVirtualmachine#main.py)
 
 ---
 
@@ -43,8 +53,8 @@
 
 - #### display of welcome message
 
-> _Welcome to Snake and Ladder Game. Developed by: Manjunath AG Dedicated to:
-> Nithyashree N_
+> \_Welcome to Snake and Ladder Game. Developed by: Manjunath AG Dedicated to:
+> Ameenagouda
 
         Select Snake and Ladder data-type:
         --> Enter 1 to select default values for snake and ladder.
@@ -52,25 +62,23 @@
 
 - #### display of winner message
 
-  > _Nithya is playing Nithya rolled a 3 and moved from the position 77 to the
-  > position 80_
+  > _Ameenagouda is playing Ameenagouda rolled a 3 and moved from the position
+  > 77 to the position 80_
 
-  > _woo-hoo..!!, Nithya got lucky to climb ladder to 99 position Nithya moved
-  > up to 99 position due to ladder_
+  > _woo-hoo..!!, Ameenagouda got lucky to climb ladder to 99 position
+  > Ameenagouda moved up to 99 position due to ladder_
 
   > _Manjunath is playing Manjunath rolled a 1 and moved from the position 65 to
   > the position 66_
 
-  > _Nithya is playing Nithya rolled a 1 and moved from the position 99 to the
-  > position 100_
+  > _Ameenagouda is playing Ameenagouda rolled a 1 and moved from the position
+  > 99 to the position 100_
 
-  > _Nithya has won the game, Hurray!!!_
+  > _Ameenagouda has won the game, Hurray!!!_
 
 ---
 
 # DEMO
 
-- [Video demonstration](https://drive.google.com/file/d/1TXZszVo6tsjiJJdTWoteq6NpKq5vCsnj/view?usp=sharing)
-- [Run the game on Browser, using repl.it website](https://replit.com/@AGManjunath/SnoopyLumpyFirmware#main.py)
+- [Run the game on Browser, using repl.it website](https://replit.com/@AGManjunath/snake-and-ladder-python-text-based-game)
 - [Github Link](https://github.com/Manjunath-Gowdar-au26/Text_based_Snake_and_Ladder_game)
-- [PDF Documentation ](https://drive.google.com/file/d/1DmpmourNthF4S1X3866stRFBw8wK697K/view?usp=sharing)

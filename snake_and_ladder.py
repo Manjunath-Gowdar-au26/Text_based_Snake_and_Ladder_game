@@ -10,7 +10,7 @@ class Game:
     message = """
         Welcome to Snake and Ladder Game.
         Developed by: Manjunath AG
-        Dedicated to: Nithyashree N
+        Dedicated to: Ameenagouda BG
         
         Select Snake and Ladder data-type:
         --> Enter 1 to select default values for snake and ladder.
@@ -52,7 +52,7 @@ class Game:
             72:91,
             80:99
         }
-        player_one_name = 'Nithya'
+        player_one_name = 'Ameenagouda'
         player_one_initial_position = 0
         player_one_final_position = 0
 
